@@ -25,4 +25,4 @@ JavaScript, AJAX, Bootstrap and React.
 • React
 
 🚀 Live Demo
-https://yourwebsite.infinityfreeapp.com
+https://pglife-project.infinityfreeapp.com/PGLife/
